@@ -1,0 +1,14 @@
+CLK-16
+DIO-18
+Gnd 6
+Vcc 4
+Sda 3
+Scl 5
+Vdd 1
+Intl 37
+Tx 10
+Usb:
+Rx :yellow
+Tx:green
+Gnd:black
+Vcc :red
